@@ -19,33 +19,21 @@ This project is the **first step** in a series of frontend development tasks whe
 
 [Figma Design – Homepage](https://www.figma.com/design/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=3558-0&t=QEHs3UaMwapUeVTU-0)
 
-You may need to install the following fonts to view the design correctly:
-
-* [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
-* [Spin Cycle OT](https://www.fonts.com/font/spin-cycle)
-
 ---
 
 ## 🧱 Structure Overview
 
 The HTML structure is divided into semantic sections as observed in the Figma design:
 
-* `<header>` – for navigation and site identity
-* `<main>` – wrapping the primary content
-
-  * Hero/banner section
-  * Feature highlights or services
-  * Testimonials or social proof
-  * Call-to-action sections
-* `<footer>` – with contact info, social links, and legal notices
+* `<header>` 
+* `<main>` 
+* `<footer>` 
 
 Each section uses semantic tags such as:
 
 * `<section>`
-* `<article>`
 * `<nav>`
-* `<figure>`
-* `<h1>`–`<h6>`, `<p>`, `<ul>` / `<ol>`
+* `<h1>`–`<h6>`, `<p>`
 
 ---
 
