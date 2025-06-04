@@ -1,0 +1,27 @@
+header{
+    width: 1103.41px;
+    height: 29.46px;
+    margin: 35px auto;
+}
+nav{
+    width: 234px;
+    height: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#nav_container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav a{
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+nav a:hover{
+    text-decoration: underline;
+}
